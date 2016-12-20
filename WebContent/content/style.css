@@ -1,0 +1,28 @@
+
+.container-content{
+	padding-top: 70px;
+}
+input{
+	border-radius: 0px !important;
+}
+.btn{
+	border-radius: 0px !important;
+}
+
+.panel{
+	border-radius: 0px !important;
+}
+
+.panel-heading{
+	border-radius: 0px !important;
+}
+
+.modal-content  {
+    -webkit-border-radius: 0px !important;
+    -moz-border-radius: 0px !important;
+    border-radius: 0px !important; 
+}
+
+.m-t-20{
+	margin-top: 20px;
+}
