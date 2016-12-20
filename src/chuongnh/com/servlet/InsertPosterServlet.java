@@ -124,8 +124,6 @@ public class InsertPosterServlet extends HttpServlet {
 
 					}
 				}
-				if (fileName == "")
-					p.Image = "";
 			}
 		} catch (Exception ex) {
 			request.setAttribute("message", "There was an error: " + ex.getMessage());
